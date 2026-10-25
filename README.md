@@ -5,16 +5,11 @@
 ![Status](https://img.shields.io/badge/status-in%20progress-orange)
 ![Python](https://img.shields.io/badge/python-3.x-blue)
 
-## Business context
+## Business problem
 
-Unplanned machine failures are one of the main sources of lost capacity on a production line. This project uses the following cost assumptions (illustrative figures):
-
-| Event | Downtime | Cost |
-|---|---|---|
-| Unplanned failure (reactive repair) | ~4 h | ~€5,000 |
-| Planned intervention (preventive) | ~30 min | ~€500 |
-
-The question is whether existing sensor data can flag failures early enough to intervene, and whether doing so pays off.
+- Unexpected machine failure interrupts production, increases maintenance costs and can damage equipment.
+- Predictive maintenance turns sensor readings into a decision: **continue**, **monitor** or **inspect**.
+- **Goal:** detect high-risk machines early while controlling false alarms.
 
 ## Dataset
 
