@@ -52,7 +52,7 @@ ai4i-predictive-maintenance/
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/ai4i-predictive-maintenance.git
+git clone https://github.com/<Ab-traore>/ai4i-predictive-maintenance.git
 cd ai4i-predictive-maintenance
 python -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
