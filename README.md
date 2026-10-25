@@ -69,4 +69,4 @@ _To be completed._
 ## Author
 
 [Abou TRAORE], Industrial Engineer
-[LinkedIn](https://www.linkedin.com/in/traore-abou) · [Email](aboubakr.traore01@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/traore-abou) · [Email](mailto:aboubakr.traore01@gmail.com)
