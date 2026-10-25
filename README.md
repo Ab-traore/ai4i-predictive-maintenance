@@ -1,2 +1,7 @@
-# ai4i-predictive-maintenance
-Maintenance prédictive : détection de pannes machine à partir de données capteurs (AI4I 2020)
+# AI4I Predictive Maintenance
+
+> 🇫🇷 **Résumé** : prédiction des pannes d'une machine d'usinage à partir
+> de données capteurs, avec une analyse coûts/bénéfices de la maintenance
+> préventive. [3-4 lignes]
+
+## Context
