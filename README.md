@@ -1,6 +1,8 @@
 # Predictive Maintenance
 
-> Ce projet vise à anticiper les pannes d'une machine d'usinage à partir de ses données capteurs (températures, vitesse de rotation, couple, usure outil). Au-delà de la performance du modèle, il évalue l'intérêt économique d'une maintenance prédictive par rapport à une maintenance corrective, en raisonnant en temps d'arrêt et en coûts.
+> **Résumé (FR)** : A partir des données d'une fraiseuse (températures, vitesse de rotation, couple, usure outil), ce projet identifie les conditions de fonctionnement qui mènent à une panne. Les prédictions sont traduites en décisions de maintenance (continuer, surveiller, inspecter), avec un seuil d'alerte fixé en comparant le coût d'une panne manquée à celui d'une fausse alarme. Données synthétiques AI4I 2020 (UCI).
+
+> **Summary**: using data from a milling machine (temperatures, rotational speed, torque, tool wear), this project identifies the operating conditions that lead to failure. Predictions are turned into maintenance decisions (continue, monitor, inspect), with an alert threshold set by weighing the cost of a missed failure against the cost of a false alarm. Synthetic data from AI4I 2020 (UCI).
 
 ![Status](https://img.shields.io/badge/status-in%20progress-orange)
 ![Python](https://img.shields.io/badge/python-3.x-blue)
