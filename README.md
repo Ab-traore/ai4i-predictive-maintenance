@@ -23,6 +23,7 @@ The project uses the [AI4I 2020 Predictive Maintenance Dataset](https://archive.
 - Inputs: product quality type (L/M/H), air temperature, process temperature, rotational speed, torque, tool wear
 - Target: machine failure (binary), broken down into 5 failure modes: tool wear (TWF), heat dissipation (HDF), power (PWF), overstrain (OSF) and random (RNF)
 
+### Failure outcomes and operating conditions 
 | Category | Variables |
 |---|---|
 | **Product** | Type: L, M or H |
