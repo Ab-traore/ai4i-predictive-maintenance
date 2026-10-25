@@ -68,5 +68,5 @@ _To be completed._
 
 ## Author
 
-[Your Name], junior industrial engineer
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:your.email@example.com)
+[Abou TRAORE], Industrial Engineer
+[LinkedIn](https://www.linkedin.com/in/traore-abou) · [Email](aboubakr.traore01@gmail.com)
